@@ -1,0 +1,66 @@
+.logo{
+	border: 2px solid red;*/
+	width: 30%;
+	float: left;
+
+}
+
+.menu{
+	border: 2px solid red;*/
+	width: 60%;
+	float: right;
+
+}
+.menu ul li{
+	display: inline;
+	border: 2px solid red;*/
+	margin :5px;
+	padding :5px;
+}
+.header
+{border: 2px solid rd;
+overflow: hidden;}
+
+.slider{
+	border: 2px solid red;
+	overflow: hidden;
+}
+
+.about_image{
+	border: 2px;
+	float: left;
+}
+
+.content{
+	float : right;
+}
+.about {
+	border: 2px solid red;
+	margin: 10px; 
+	overflow: hidden;
+}
+
+#btn{background: coral;
+cursor: pointer;
+height: 50px;
+width: 100px;
+border: none;}
+
+.ser{border: 2px solid red;
+	width: 30%;
+	display: inline-block;
+	margin : 5px;
+}
+
+.contact{
+	border: 2px solid red;
+	float: left;
+	margin: 10px;
+	}
+
+.map{
+	float: right;
+	border: 2px solid red;
+	width: 45%;
+	margin: 10px;
+}
